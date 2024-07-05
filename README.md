@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobbS79, but call me just Rob :)
+- 👋 Hi, I’m @RobbS79, call me Rob :)
 
 
 - 👀 I’m interested in digitisation and automation of business administration processes, data analytics and data science implementation into business decisions, in form of micro services which will enable clients to manage their self-service business intelligence
